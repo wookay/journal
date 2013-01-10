@@ -6,6 +6,7 @@ JOURNAL
  * [부산 기천문 이야기](journal/wiki/부산-기천문-이야기)
 
 ### 지나가는
+ * [2013년의 나](journal/wiki/2013년의-나)
  * 2012년의 나
   - 12월 21일, 30일 [사라 바라스 La Pepa 공연 후기](journal/wiki/사라-바라스-La-Pepa-공연-후기)
   - 12월 20일 [1789, les amants de la Bastille 관람 후기](journal/wiki/1789,-les-amants-de-la-Bastille-관람-후기)
@@ -28,4 +29,5 @@ JOURNAL
 * THOUGHT https://github.com/wookay/thought
 * BOOKS https://github.com/wookay/books
 * FACEBOOK http://facebook.com/factorcat
+* LAST FM http://last.fm/user/wookay/library/recent
 * TUMBLBUG WARRANTIES https://tumblbug.com/u/wookay/warranties
