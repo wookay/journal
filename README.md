@@ -16,6 +16,7 @@ JOURNAL
  * [2008년의 나](journal/wiki/2008년의-나)
  * [2007년의 나](journal/wiki/2007년의-나)
   - 10월 5일 [Erlang Workshop](journal/wiki/Erlang-Workshop)
+  - 10월 2일, 3일 [하이델베르크 여행기](journal/wiki/하이델베르크-여행기)
  * [2006년의 나](journal/wiki/2006년의-나)
   - 7월 28일 ~ 7월 30일 [펜타포트 락 페스티벌 2006](journal/wiki/펜타포트-락-페스티벌-2006)
  * [2005년의 나](journal/wiki/2005년의-나)
