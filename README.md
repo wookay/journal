@@ -1,11 +1,12 @@
 JOURNAL
 =======
 
-### 머무르는
+### 주제별
  * [언어 덕후의 일기](https://github.com/wookay/journal/wiki/언어-덕후의-일기)
  * [부산 기천문 이야기](https://github.com/wookay/journal/wiki/부산-기천문-이야기)
 
-### 지나가는
+### 년도별
+ * [2014년의 나](https://github.com/wookay/journal/wiki/2014년의-나)
  * [2013년의 나](https://github.com/wookay/journal/wiki/2013년의-나)
  * [2012년의 나](https://github.com/wookay/journal/wiki/2012년의-나)
   - 12월 21일, 30일 [사라 바라스 La Pepa 공연 후기](https://github.com/wookay/journal/wiki/사라-바라스-La-Pepa-공연-후기)
@@ -33,4 +34,4 @@ JOURNAL
 * JOURNAL https://github.com/wookay/journal
 * THOUGHT https://github.com/wookay/thought
 * FACEBOOK http://facebook.com/factorcat
-* TUMBLBUG WARRANTIES https://tumblbug.com/u/wookay/warranties
+* TUMBLBUG https://tumblbug.com/ko/u/wookay
