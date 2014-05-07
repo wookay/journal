@@ -27,6 +27,7 @@ JOURNAL
   - 7월 28일 ~ 7월 30일 [펜타포트 락 페스티벌 2006](https://github.com/wookay/journal/wiki/펜타포트-락-페스티벌-2006)
  * [2005년의 나](https://github.com/wookay/journal/wiki/2005년의-나)
  * [2004년의 나](https://github.com/wookay/journal/wiki/2004년의-나)
+ * [2003년의 나](https://github.com/wookay/journal/wiki/2003년의-나)
 
 
 
