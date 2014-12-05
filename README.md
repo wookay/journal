@@ -3,6 +3,7 @@ JOURNAL
 
 ### 주제별
  * [언어 덕후의 일기](https://github.com/wookay/journal/wiki/언어-덕후의-일기)
+ * [허확](https://github.com/wookay/journal/wiki/허확)
  * [혼자 노는 베이스](https://github.com/wookay/journal/wiki/혼자-노는-베이스)
  * [부산 기천문 이야기](https://github.com/wookay/journal/wiki/부산-기천문-이야기)
 
