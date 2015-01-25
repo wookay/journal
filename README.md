@@ -30,6 +30,7 @@ JOURNAL
  * [2005년의 나](https://github.com/wookay/journal/wiki/2005년의-나)
  * [2004년의 나](https://github.com/wookay/journal/wiki/2004년의-나)
  * [2003년의 나](https://github.com/wookay/journal/wiki/2003년의-나)
+ * [2002년의 나](https://github.com/wookay/journal/wiki/2002년의-나)
 
 
 
