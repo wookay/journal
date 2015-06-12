@@ -35,8 +35,7 @@ JOURNAL
 
 
 ### ==>
-* TWITTER http://twitter.com/wookay
 * JOURNAL https://github.com/wookay/journal
-* THOUGHT https://github.com/wookay/thought
 * FACEBOOK http://facebook.com/factorcat
+* TWITTER http://twitter.com/wookay
 * TUMBLBUG https://tumblbug.com/ko/u/wookay
