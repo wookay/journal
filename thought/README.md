@@ -2272,10 +2272,7 @@ THOUGHT
 
 
 ### ==>
-* TWITTER http://twitter.com/wookay
 * JOURNAL https://github.com/wookay/journal
-* THOUGHT https://github.com/wookay/thought
-* BOOKS https://github.com/wookay/books
 * FACEBOOK http://facebook.com/factorcat
-* LAST FM http://last.fm/user/wookay/library/recent
-* TUMBLBUG WARRANTIES https://tumblbug.com/u/wookay/warranties
+* TWITTER http://twitter.com/wookay
+* TUMBLBUG https://tumblbug.com/ko/u/wookay
