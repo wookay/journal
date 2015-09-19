@@ -36,6 +36,6 @@ JOURNAL
 
 ### ==>
 * GITHUB https://github.com/wookay
-* ANGEL https://angel.co/wookyoung-noh
+* ANGEL https://angel.co/wookyoung
 * FACEBOOK http://facebook.com/factorcat
 * TWITTER http://twitter.com/wookay
