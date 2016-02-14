@@ -353,7 +353,7 @@ THOUGHT
 	정말
 	====
 	
-	나는 지나간 과거를  생각하지 않는다.
+	나는 지나간 과거를 생각하지 않는다.
 	그것은 내가 감당할 수 없는 것이므로.
 	그때 그랬어야 하는 것들이 너무나 많으므로.
 	부정하기엔 내 자신이 너무나 초라하므로.
@@ -769,6 +769,7 @@ THOUGHT
 	
 	훨훨 타거라
 	===========
+
 	하나
 	객관적인 개입을 필요로 하는 것들
 
@@ -2251,5 +2252,4 @@ THOUGHT
 ### ==>
 * JOURNAL https://github.com/wookay/journal
 * FACEBOOK http://facebook.com/factorcat
-* TWITTER http://twitter.com/wookay
-* TUMBLBUG https://tumblbug.com/ko/u/wookay
+* ANGEL https://angel.co/wookyoung
