@@ -37,5 +37,5 @@ JOURNAL
 
 ### ==>
 * JOURNAL https://github.com/wookay/journal
-* FACEBOOK http://facebook.com/factorcat
+* FACEBOOK http://facebook.com/wookyoungnoh
 * ANGEL https://angel.co/wookyoung
