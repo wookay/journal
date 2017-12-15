@@ -3,12 +3,12 @@ JOURNAL
 
 ### 주제별
  * [언어 덕후의 일기](https://github.com/wookay/journal/wiki/언어-덕후의-일기)
- * [thought](https://github.com/wookay/journal/tree/master/thought)
- * [허확](https://github.com/wookay/journal/wiki/허확)
  * [혼자 노는 베이스](https://github.com/wookay/journal/wiki/혼자-노는-베이스)
  * [부산 기천문 이야기](https://github.com/wookay/journal/wiki/부산-기천문-이야기)
 
 ### 년도별
+ * [2017년의 나](https://github.com/wookay/journal/wiki/2017년의-나)
+ * [2016년의 나](https://github.com/wookay/journal/wiki/2016년의-나)
  * [2015년의 나](https://github.com/wookay/journal/wiki/2015년의-나)
  * [2014년의 나](https://github.com/wookay/journal/wiki/2014년의-나)
  * [2013년의 나](https://github.com/wookay/journal/wiki/2013년의-나)
