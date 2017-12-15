@@ -39,3 +39,4 @@ JOURNAL
 * JOURNAL https://github.com/wookay/journal
 * FACEBOOK http://facebook.com/wookyoungnoh
 * ANGEL https://angel.co/wookyoung
+* SOUNDCLOUD https://soundcloud.com/wookay
