@@ -41,3 +41,4 @@ JOURNAL
 * FACEBOOK http://facebook.com/wookyoungnoh
 * ANGEL https://angel.co/wookyoung
 * SOUNDCLOUD https://soundcloud.com/wookay
+* KADENZE https://kadenze.com/users/wookyoung
