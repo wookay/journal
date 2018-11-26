@@ -7,6 +7,7 @@ JOURNAL
  * [부산 기천문 이야기](https://github.com/wookay/journal/wiki/부산-기천문-이야기)
 
 ### 년도별
+ * [2019년의 나](https://github.com/wookay/journal/wiki/2019년의-나)
  * [2018년의 나](https://github.com/wookay/journal/wiki/2018년의-나)
  * [2017년의 나](https://github.com/wookay/journal/wiki/2017년의-나)
  * [2016년의 나](https://github.com/wookay/journal/wiki/2016년의-나)
