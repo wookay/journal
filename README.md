@@ -38,8 +38,10 @@ JOURNAL
 
 
 ### 외부 연결
-* JOURNAL https://github.com/wookay/journal
-* FACEBOOK http://facebook.com/wookyoungnoh
-* ANGEL https://angel.co/wookyoung
-* SOUNDCLOUD https://soundcloud.com/wookay
-* KADENZE https://kadenze.com/users/wookyoung
+* JOURNAL  https://github.com/wookay/journal
+* FACEBOOK  http://facebook.com/wookyoungnoh
+* ANGEL  https://angel.co/wookyoung
+* SOUNDCLOUD  https://soundcloud.com/wookay
+* KADENZE  https://kadenze.com/users/wookyoung
+* TWITCH  https://twitch.tv/wookyoung
+* PATREON  https://patreon.com/wookay
