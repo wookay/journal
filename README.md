@@ -7,6 +7,7 @@ JOURNAL
  * [부산 기천문 이야기](https://github.com/wookay/journal/wiki/부산-기천문-이야기)
 
 ### 년도별
+ * [2020년의 나](https://github.com/wookay/journal/wiki/2020년의-나)
  * [2019년의 나](https://github.com/wookay/journal/wiki/2019년의-나)
  * [2018년의 나](https://github.com/wookay/journal/wiki/2018년의-나)
    - [JuliaCon-2018](https://github.com/wookay/journal/wiki/JuliaCon-2018)
@@ -45,8 +46,7 @@ JOURNAL
 ### 외부 연결
 * JOURNAL  https://github.com/wookay/journal
 * FACEBOOK  http://facebook.com/wookyoungnoh
-* ANGEL  https://angel.co/wookyoung
 * SOUNDCLOUD  https://soundcloud.com/wookay
-* KADENZE  https://kadenze.com/users/wookyoung
 * TWITCH  https://twitch.tv/wookyoung
-* PATREON  https://patreon.com/wookay
+* KADENZE  https://kadenze.com/users/wookyoung
+* ANGEL  https://angel.co/wookyoung
