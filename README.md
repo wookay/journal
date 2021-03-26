@@ -48,6 +48,7 @@ JOURNAL
 ### 외부 연결
 * JOURNAL  https://github.com/wookay/journal
 * FACEBOOK  http://facebook.com/wookyoungnoh
+* INSTAGRAM  https://instagram.com/wookay
+* music tweet  https://twitter.com/wookay
 * SOUNDCLOUD  https://soundcloud.com/wookay
 * ANGEL  https://angel.co/wookyoung
-* music tweet  https://twitter.com/wookay
