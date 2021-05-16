@@ -47,6 +47,7 @@ JOURNAL
 
 ### 외부 연결
 * JOURNAL  https://github.com/wookay/journal
+* LINKTREE  https://linktr.ee/chobtv
 * FACEBOOK  http://facebook.com/wookyoungnoh
 * INSTAGRAM  https://instagram.com/wookay
 * music tweet  https://twitter.com/wookay
