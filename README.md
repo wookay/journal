@@ -8,6 +8,7 @@ JOURNAL
  * [삼국지덕후](https://github.com/wookay/journal/wiki/삼국지덕후)
 
 ### 년도별
+ * [2022년의 나](https://github.com/wookay/journal/wiki/2022년의-나)
  * [2021년의 나](https://github.com/wookay/journal/wiki/2021년의-나)
  * [2020년의 나](https://github.com/wookay/journal/wiki/2020년의-나)
  * [2019년의 나](https://github.com/wookay/journal/wiki/2019년의-나)
@@ -48,8 +49,6 @@ JOURNAL
 ### 외부 연결
 * JOURNAL  https://github.com/wookay/journal
 * LINKTREE  https://linktr.ee/chobtv
-* FACEBOOK  http://facebook.com/wookyoungnoh
-* INSTAGRAM  https://instagram.com/wookay
 * music tweet  https://twitter.com/wookay
 * SOUNDCLOUD  https://soundcloud.com/wookay
 * ANGEL  https://angel.co/wookyoung
