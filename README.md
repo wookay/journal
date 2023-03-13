@@ -4,10 +4,10 @@ JOURNAL
 ### 주제별
  * [언어 덕후의 일기](https://github.com/wookay/journal/wiki/언어-덕후의-일기)
  * [혼자 노는 베이스](https://github.com/wookay/journal/wiki/혼자-노는-베이스)
- * [부산 기천문 이야기](https://github.com/wookay/journal/wiki/부산-기천문-이야기)
  * [삼국지덕후](https://github.com/wookay/journal/wiki/삼국지덕후)
 
 ### 년도별
+ * [2023년의 나](https://github.com/wookay/journal/wiki/2023년의-나)
  * [2022년의 나](https://github.com/wookay/journal/wiki/2022년의-나)
  * [2021년의 나](https://github.com/wookay/journal/wiki/2021년의-나)
  * [2020년의 나](https://github.com/wookay/journal/wiki/2020년의-나)
