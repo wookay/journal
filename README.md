@@ -7,6 +7,7 @@ JOURNAL
  * [삼국지덕후](https://github.com/wookay/journal/wiki/삼국지덕후)
 
 ### 년도별
+ * [2024년의 나](https://github.com/wookay/journal/wiki/2024년의-나)
  * [2023년의 나](https://github.com/wookay/journal/wiki/2023년의-나)
  * [2022년의 나](https://github.com/wookay/journal/wiki/2022년의-나)
  * [2021년의 나](https://github.com/wookay/journal/wiki/2021년의-나)
